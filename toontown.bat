@@ -11,6 +11,7 @@ ToontownStart: Starting the game.
 ToontownStart: setting default font
 ToontownStart: Loading default gui sounds
 ToontownStart: serverVersion:  sv0.0.0.1-dev
-Traceback (most recent call last):
 
-run()
+goto main
+
+pause
