@@ -11,8 +11,6 @@ ToontownStart: Starting the game.
 ToontownStart: setting default font
 ToontownStart: Loading default gui sounds
 ToontownStart: serverVersion:  sv0.0.0.1-dev
-TTAccount: accountServer from launcher:  
-TTAccount: default accountServer:  https://toonclash.tk
 Traceback (most recent call last):
 
 run()
