@@ -1,7 +1,7 @@
 
 
 Starting Toontown...
-Current time: Tue Nov 10 21:25:31 2001 EST
+Current time: Tue Jan 10 21:25:31 2001 EST
 sys.path =  ['C:/Panda3D-1.9.0/python/python.exe']
 OTPLocalizer: Running in language: English
 TTLocalizer: Running in language: English
